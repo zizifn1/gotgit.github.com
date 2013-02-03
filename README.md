@@ -1,6 +1,7 @@
 Got Git
 =======
 
+修改后，看变化。
 Inspired by [ProGit website](http://progit.org/), I use the same technique (Jekyll) to maintain my books and blog.
 
 * Maintenance for my book on Git in Chinese, named GotGit.
