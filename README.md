@@ -11,3 +11,5 @@ Inspired by [ProGit website](http://progit.org/), I use the same technique (Jeky
 The design and layout of this site are from [Mister Bleigh](http://www.mbleigh.com/), and are licensed under the MIT License. However, the content of the site (blog posts and page content) is licensed under a Creative Commons Attribution license (you may use it, but must give attribution).
 
 Copyright (c) 2011 Jiang Xin. Rights reserved as indicated above.
+
+这是zizifn1 fork zizifn 的gotgit.github.com  目的是体验这里修改文件后，然后PUll后的结果。
